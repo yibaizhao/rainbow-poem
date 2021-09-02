@@ -1,8 +1,9 @@
-Rainbow poem
+Rainbow and rabbit poem
 
 Red
 Blue
 Green
 Purple
 Yellow
-These are colors of rainbow.
+Rabbit
+These are colors of rainbow and rabbit.
