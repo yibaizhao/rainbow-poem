@@ -3,4 +3,5 @@ Rainbow poem
 Red
 Blue
 Green
+Purple
 These are colors of rainbow.
