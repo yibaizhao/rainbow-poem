@@ -1,7 +1,8 @@
-Rainbow poem
+Rainbow and unicorn poem
 
 Red
 Blue
 Green
 Purple
-These are colors of rainbow.
+unicorn
+These are colors of rainbow and unicorn.
