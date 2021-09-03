@@ -9,3 +9,5 @@ Rabbit
 These are colors of rainbow and rabbit.
 
 I want to see rainbow today.
+
+James wants too.
